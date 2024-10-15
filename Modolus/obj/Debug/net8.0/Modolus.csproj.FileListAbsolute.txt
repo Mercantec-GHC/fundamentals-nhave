@@ -1,0 +1,15 @@
+C:\Users\nhave\source\repos\fundamentals-nhave\Modolus\bin\Debug\net8.0\Modolus.exe
+C:\Users\nhave\source\repos\fundamentals-nhave\Modolus\bin\Debug\net8.0\Modolus.deps.json
+C:\Users\nhave\source\repos\fundamentals-nhave\Modolus\bin\Debug\net8.0\Modolus.runtimeconfig.json
+C:\Users\nhave\source\repos\fundamentals-nhave\Modolus\bin\Debug\net8.0\Modolus.dll
+C:\Users\nhave\source\repos\fundamentals-nhave\Modolus\bin\Debug\net8.0\Modolus.pdb
+C:\Users\nhave\source\repos\fundamentals-nhave\Modolus\obj\Debug\net8.0\Modolus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhave\source\repos\fundamentals-nhave\Modolus\obj\Debug\net8.0\Modolus.AssemblyInfoInputs.cache
+C:\Users\nhave\source\repos\fundamentals-nhave\Modolus\obj\Debug\net8.0\Modolus.AssemblyInfo.cs
+C:\Users\nhave\source\repos\fundamentals-nhave\Modolus\obj\Debug\net8.0\Modolus.csproj.CoreCompileInputs.cache
+C:\Users\nhave\source\repos\fundamentals-nhave\Modolus\obj\Debug\net8.0\Modolus.sourcelink.json
+C:\Users\nhave\source\repos\fundamentals-nhave\Modolus\obj\Debug\net8.0\Modolus.dll
+C:\Users\nhave\source\repos\fundamentals-nhave\Modolus\obj\Debug\net8.0\refint\Modolus.dll
+C:\Users\nhave\source\repos\fundamentals-nhave\Modolus\obj\Debug\net8.0\Modolus.pdb
+C:\Users\nhave\source\repos\fundamentals-nhave\Modolus\obj\Debug\net8.0\Modolus.genruntimeconfig.cache
+C:\Users\nhave\source\repos\fundamentals-nhave\Modolus\obj\Debug\net8.0\ref\Modolus.dll

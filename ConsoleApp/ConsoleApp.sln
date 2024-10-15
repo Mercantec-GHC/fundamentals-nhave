@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp.csproj", "{2EBF0011-8F47-4E97-9848-89296B606E9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "ConsoleApp.csproj", "{2EBF0011-8F47-4E97-9848-89296B606E9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modolus", "..\Modolus\Modolus.csproj", "{BA78AA81-0823-4C97-B233-120CD3511A18}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{2EBF0011-8F47-4E97-9848-89296B606E9E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2EBF0011-8F47-4E97-9848-89296B606E9E}.Release|ARM64.ActiveCfg = Release|ARM64
 		{2EBF0011-8F47-4E97-9848-89296B606E9E}.Release|ARM64.Build.0 = Release|ARM64
+		{BA78AA81-0823-4C97-B233-120CD3511A18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA78AA81-0823-4C97-B233-120CD3511A18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA78AA81-0823-4C97-B233-120CD3511A18}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{BA78AA81-0823-4C97-B233-120CD3511A18}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{BA78AA81-0823-4C97-B233-120CD3511A18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA78AA81-0823-4C97-B233-120CD3511A18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA78AA81-0823-4C97-B233-120CD3511A18}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{BA78AA81-0823-4C97-B233-120CD3511A18}.Release|ARM64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
