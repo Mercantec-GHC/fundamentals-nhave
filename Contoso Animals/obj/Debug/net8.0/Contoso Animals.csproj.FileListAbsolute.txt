@@ -1,0 +1,15 @@
+C:\Users\nhave\source\repos\fundamentals-nhave\Contoso Animals\bin\Debug\net8.0\Contoso Animals.exe
+C:\Users\nhave\source\repos\fundamentals-nhave\Contoso Animals\bin\Debug\net8.0\Contoso Animals.deps.json
+C:\Users\nhave\source\repos\fundamentals-nhave\Contoso Animals\bin\Debug\net8.0\Contoso Animals.runtimeconfig.json
+C:\Users\nhave\source\repos\fundamentals-nhave\Contoso Animals\bin\Debug\net8.0\Contoso Animals.dll
+C:\Users\nhave\source\repos\fundamentals-nhave\Contoso Animals\bin\Debug\net8.0\Contoso Animals.pdb
+C:\Users\nhave\source\repos\fundamentals-nhave\Contoso Animals\obj\Debug\net8.0\Contoso Animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhave\source\repos\fundamentals-nhave\Contoso Animals\obj\Debug\net8.0\Contoso Animals.AssemblyInfoInputs.cache
+C:\Users\nhave\source\repos\fundamentals-nhave\Contoso Animals\obj\Debug\net8.0\Contoso Animals.AssemblyInfo.cs
+C:\Users\nhave\source\repos\fundamentals-nhave\Contoso Animals\obj\Debug\net8.0\Contoso Animals.csproj.CoreCompileInputs.cache
+C:\Users\nhave\source\repos\fundamentals-nhave\Contoso Animals\obj\Debug\net8.0\Contoso Animals.sourcelink.json
+C:\Users\nhave\source\repos\fundamentals-nhave\Contoso Animals\obj\Debug\net8.0\Contoso Animals.dll
+C:\Users\nhave\source\repos\fundamentals-nhave\Contoso Animals\obj\Debug\net8.0\refint\Contoso Animals.dll
+C:\Users\nhave\source\repos\fundamentals-nhave\Contoso Animals\obj\Debug\net8.0\Contoso Animals.pdb
+C:\Users\nhave\source\repos\fundamentals-nhave\Contoso Animals\obj\Debug\net8.0\Contoso Animals.genruntimeconfig.cache
+C:\Users\nhave\source\repos\fundamentals-nhave\Contoso Animals\obj\Debug\net8.0\ref\Contoso Animals.dll
