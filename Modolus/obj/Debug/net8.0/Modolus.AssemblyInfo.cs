@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Modolus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+441509ca5b376035986f06028e6ffefcfb7239cc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d1702aadb4ddb215907621f51d96f6c2908165a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Modolus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Modolus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

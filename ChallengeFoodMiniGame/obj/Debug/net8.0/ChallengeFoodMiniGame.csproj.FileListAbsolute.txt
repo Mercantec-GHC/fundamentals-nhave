@@ -1,0 +1,15 @@
+C:\Users\nhave\source\repos\fundamentals-nhave\ChallengeFoodMiniGame\bin\Debug\net8.0\ChallengeFoodMiniGame.exe
+C:\Users\nhave\source\repos\fundamentals-nhave\ChallengeFoodMiniGame\bin\Debug\net8.0\ChallengeFoodMiniGame.deps.json
+C:\Users\nhave\source\repos\fundamentals-nhave\ChallengeFoodMiniGame\bin\Debug\net8.0\ChallengeFoodMiniGame.runtimeconfig.json
+C:\Users\nhave\source\repos\fundamentals-nhave\ChallengeFoodMiniGame\bin\Debug\net8.0\ChallengeFoodMiniGame.dll
+C:\Users\nhave\source\repos\fundamentals-nhave\ChallengeFoodMiniGame\bin\Debug\net8.0\ChallengeFoodMiniGame.pdb
+C:\Users\nhave\source\repos\fundamentals-nhave\ChallengeFoodMiniGame\obj\Debug\net8.0\ChallengeFoodMiniGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhave\source\repos\fundamentals-nhave\ChallengeFoodMiniGame\obj\Debug\net8.0\ChallengeFoodMiniGame.AssemblyInfoInputs.cache
+C:\Users\nhave\source\repos\fundamentals-nhave\ChallengeFoodMiniGame\obj\Debug\net8.0\ChallengeFoodMiniGame.AssemblyInfo.cs
+C:\Users\nhave\source\repos\fundamentals-nhave\ChallengeFoodMiniGame\obj\Debug\net8.0\ChallengeFoodMiniGame.csproj.CoreCompileInputs.cache
+C:\Users\nhave\source\repos\fundamentals-nhave\ChallengeFoodMiniGame\obj\Debug\net8.0\ChallengeFoodMiniGame.sourcelink.json
+C:\Users\nhave\source\repos\fundamentals-nhave\ChallengeFoodMiniGame\obj\Debug\net8.0\ChallengeFoodMiniGame.dll
+C:\Users\nhave\source\repos\fundamentals-nhave\ChallengeFoodMiniGame\obj\Debug\net8.0\refint\ChallengeFoodMiniGame.dll
+C:\Users\nhave\source\repos\fundamentals-nhave\ChallengeFoodMiniGame\obj\Debug\net8.0\ChallengeFoodMiniGame.pdb
+C:\Users\nhave\source\repos\fundamentals-nhave\ChallengeFoodMiniGame\obj\Debug\net8.0\ChallengeFoodMiniGame.genruntimeconfig.cache
+C:\Users\nhave\source\repos\fundamentals-nhave\ChallengeFoodMiniGame\obj\Debug\net8.0\ref\ChallengeFoodMiniGame.dll

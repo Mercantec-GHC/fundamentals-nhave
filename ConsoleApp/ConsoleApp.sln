@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "ConsoleApp.cs
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modolus", "..\Modolus\Modolus.csproj", "{BA78AA81-0823-4C97-B233-120CD3511A18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contoso Animals", "..\Contoso Animals\Contoso Animals.csproj", "{91AE96BC-525C-4D80-A54C-DB1A15EDD4AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contoso Animals", "..\Contoso Animals\Contoso Animals.csproj", "{91AE96BC-525C-4D80-A54C-DB1A15EDD4AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceGame", "..\ConsoleApp1\DiceGame.csproj", "{BF17A3AB-FCC6-45CD-9845-E870008B31C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiceGame", "..\ConsoleApp1\DiceGame.csproj", "{BF17A3AB-FCC6-45CD-9845-E870008B31C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeFoodMiniGame", "..\ChallengeFoodMiniGame\ChallengeFoodMiniGame.csproj", "{177F042B-5153-42F6-B656-1BAC772CDC0A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,14 @@ Global
 		{BF17A3AB-FCC6-45CD-9845-E870008B31C1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BF17A3AB-FCC6-45CD-9845-E870008B31C1}.Release|ARM64.ActiveCfg = Release|Any CPU
 		{BF17A3AB-FCC6-45CD-9845-E870008B31C1}.Release|ARM64.Build.0 = Release|Any CPU
+		{177F042B-5153-42F6-B656-1BAC772CDC0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{177F042B-5153-42F6-B656-1BAC772CDC0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{177F042B-5153-42F6-B656-1BAC772CDC0A}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{177F042B-5153-42F6-B656-1BAC772CDC0A}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{177F042B-5153-42F6-B656-1BAC772CDC0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{177F042B-5153-42F6-B656-1BAC772CDC0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{177F042B-5153-42F6-B656-1BAC772CDC0A}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{177F042B-5153-42F6-B656-1BAC772CDC0A}.Release|ARM64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
